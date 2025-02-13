@@ -5,7 +5,7 @@ api-version: "1.21"
 authors: [Spectrasonic]
 commands:
     su:
-        permission: su.use
+        permission: su.command
 permissions:
-    su.use:
+    su.command:
         default: true
